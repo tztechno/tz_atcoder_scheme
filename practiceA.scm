@@ -1,4 +1,4 @@
-//practiceA.scheme
+//practiceA.scm
 ##################################
 1
 2 3
