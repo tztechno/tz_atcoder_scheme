@@ -28,7 +28,11 @@ ducktail
 ```
 ---
 ```
-
+excellent
+(display "Christmas")
+(dotimes [i (- 25 (read))]
+         (display " Eve"))
+(newline)
 ```
 ---
 ```
