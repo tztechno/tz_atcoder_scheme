@@ -24,7 +24,8 @@ ducktail
 ```
 ---
 ```
-
+関数定義
+(define (Eve n) (if(= n 0) (newline) (begin(display " Eve")(Eve (- n 1)))))
 ```
 ---
 ```
