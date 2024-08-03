@@ -20,7 +20,13 @@ ducktail
 ```
 ---
 ```
-
+(display 
+  (case (read)
+    ((A) "T")
+    ((T) "A")
+    ((C) "G")
+    ((G) "C")
+    (else "Invalid input")))
 ```
 ---
 ```
